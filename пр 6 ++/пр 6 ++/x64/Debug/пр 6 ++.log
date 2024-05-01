@@ -1,0 +1,4 @@
+﻿  пр 6 ++.cpp
+C:\Users\ronetel\source\repos\кайф\пр 6 ++\пр 6 ++\пр 6 ++.cpp(88,43): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ronetel\source\repos\кайф\пр 6 ++\пр 6 ++\пр 6 ++.cpp(89,56): warning C4305: аргумент: усечение из "double" в "float"
+  пр 6 ++.vcxproj -> C:\Users\ronetel\source\repos\кайф\пр 6 ++\x64\Debug\пр 6 ++.exe
